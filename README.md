@@ -1,2 +1,2 @@
-# Interweb-chat
- 
+# interweb-chat
+A JavaScript project
